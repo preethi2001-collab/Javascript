@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.keyboard-container {
+    text-align: center;
+    background-color: yellow;
+}
+
+#key-display,
+#keycode-display {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 20px;
+}
